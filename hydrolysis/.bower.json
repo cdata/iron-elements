@@ -15,13 +15,13 @@
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0",
     "web-component-tester": "*"
   },
-  "version": "1.8.1",
+  "version": "1.9.0",
   "homepage": "https://github.com/Polymer/hydrolysis",
-  "_release": "1.8.1",
+  "_release": "1.9.0",
   "_resolution": {
     "type": "version",
-    "tag": "v1.8.1",
-    "commit": "73d01d33db7cec5b8debf364d4a44b68032ad579"
+    "tag": "v1.9.0",
+    "commit": "67b7dd8382685bcbb74f1db238e0601e4446ff49"
   },
   "_source": "git://github.com/Polymer/hydrolysis.git",
   "_target": "^1.6",
